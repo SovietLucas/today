@@ -1,6 +1,5 @@
 const express = require("express")
 const params = require("params")
-const query = require("query")
 
 const app = express()
 
